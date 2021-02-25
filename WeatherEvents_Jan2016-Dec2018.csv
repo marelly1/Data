@@ -1,0 +1,1096 @@
+EventId,Type,Severity,Date,LocationLat,LocationLng,City,State
+1,Rain,Light,2016-01-01,30.9791,-83.1925,Moody Afb,GA
+2,Rain,Light,2016-01-02,30.735,-101.203,Ozona,TX
+3,Rain,Light,2016-01-03,30.4278,-86.6893,Hurlburt Field,FL
+4,Snow,Light,2016-01-04,46.5667,-119.6,Hanford Site,WA
+5,Rain,Light,2016-01-05,37.6255,-120.9549,Modesto,CA
+6,Rain,Light,2016-01-06,36.9394,-121.79,Freedom,CA
+7,Fog,Severe,2016-01-07,31.0858,-97.6865,Killeen,TX
+8,Fog,Severe,2016-01-08,29.9592,-81.34100000000002,Saint Augustine,FL
+9,Rain,Light,2016-01-09,40.2184,-76.8552,New Cumberland,PA
+10,Rain,Light,2016-01-10,41.6875,-69.9933,Chatham,MA
+11,Snow,Light,2016-01-11,34.2686,-110.002,Show Low,AZ
+12,Fog,Severe,2016-01-12,47.2381,-123.1408,Shelton,WA
+13,Rain,Light,2016-01-13,39.275,-120.7097,Alta,CA
+14,Snow,Light,2016-01-14,42.5709,-77.7131,North Dansville,NY
+15,Fog,Moderate,2016-01-15,37.5136,-122.4996,Half Moon Bay,CA
+16,Fog,Moderate,2016-01-16,33.9753,-117.6361,Ontario,CA
+17,Rain,Light,2016-01-17,37.5136,-122.4996,Half Moon Bay,CA
+18,Rain,Light,2016-01-18,39.275,-120.7097,Alta,CA
+19,Cold,Severe,2016-01-19,32.8274,-116.9737,El Cajon,CA
+20,Rain,Light,2016-01-20,35.99800000000001,-89.4066,Dyersburg,TN
+21,Rain,Light,2016-01-21,32.5652,-97.3081,Fort Worth,TX
+22,Rain,Light,2016-01-22,35.2115,-84.7998,Cleveland,TN
+23,Fog,Moderate,2016-01-23,29.7268,-85.0248,Apalachicola,FL
+24,Snow,Light,2016-01-24,41.6875,-69.9933,Chatham,MA
+25,Fog,Severe,2016-01-25,30.5105,-99.7665,Junction,TX
+26,Fog,Severe,2016-01-26,42.1208,-87.9047,Wheeling,IL
+27,Rain,Moderate,2016-01-27,28.0997,-80.6356,Melbourne,FL
+28,Fog,Severe,2016-01-28,27.9471,-81.7811,Bartow,FL
+29,Rain,Light,2016-01-29,37.6255,-120.9549,Modesto,CA
+30,Fog,Severe,2016-01-30,32.6922,-117.2098,San Diego,CA
+31,Rain,Light,2016-01-31,34.2119,-119.0916,Camarillo,CA
+32,Rain,Light,2016-02-01,34.095,-82.8158,Elberton,GA
+33,Rain,Heavy,2016-02-02,41.8965,-88.2512,West Chicago,IL
+34,Fog,Severe,2016-02-03,31.1522,-81.3908,Saint Simons Island,GA
+35,Rain,Light,2016-02-04,42.0744,-70.2182,Provincetown,MA
+36,Snow,Light,2016-02-05,40.0536,-106.3689,Kremmling,CO
+37,Rain,Light,2016-02-06,30.8721,-96.6222,Hearne,TX
+38,Fog,Severe,2016-02-07,47.2381,-123.1408,Shelton,WA
+39,Snow,Light,2016-02-08,39.0712,-88.5292,Effingham,IL
+40,Snow,Light,2016-02-09,40.0324,-88.2755,Tolono,IL
+41,Rain,Light,2016-02-10,47.9233,-122.2831,Mukilteo,WA
+42,Snow,Light,2016-02-11,41.0254,-80.4134,New Castle,PA
+43,Rain,Light,2016-02-12,47.1039,-122.2872,Puyallup,WA
+44,Snow,Light,2016-02-13,40.0378,-105.2274,Boulder,CO
+45,Rain,Light,2016-02-14,29.5291,-97.4643,Gonzales,TX
+46,Snow,Light,2016-02-15,41.3518,-89.1496,Peru,IL
+47,Rain,Light,2016-02-16,28.5465,-81.3354,Orlando,FL
+48,Fog,Severe,2016-02-17,42.1599,-76.8916,Big Flats,NY
+49,Fog,Moderate,2016-02-18,27.9633,-82.54,Tampa,FL
+50,Rain,Light,2016-02-19,40.1611,-105.1604,Longmont,CO
+51,Rain,Light,2016-02-20,43.1083,-78.9382,Niagara Falls,NY
+52,Fog,Severe,2016-02-21,30.7285,-87.0219,Milton,FL
+53,Fog,Severe,2016-02-22,32.7339,-117.1845,San Diego,CA
+54,Rain,Light,2016-02-23,31.3975,-84.8948,Blakely,GA
+55,Rain,Heavy,2016-02-24,40.8193,-76.8658,Selinsgrove,PA
+56,Fog,Severe,2016-02-25,47.2381,-123.1408,Shelton,WA
+57,Fog,Moderate,2016-02-26,38.5067,-121.496,Sacramento,CA
+58,Rain,Light,2016-02-27,47.2675,-122.5761,Gig Harbor,WA
+59,Rain,Light,2016-02-28,42.1933,-89.0933,Rockford,IL
+60,Fog,Severe,2016-02-29,32.4603,-96.9107,Midlothian,TX
+61,Rain,Light,2016-03-01,38.0887,-88.1213,Carmi,IL
+62,Fog,Severe,2016-03-02,37.89,-121.2264,Stockton,CA
+63,Snow,Light,2016-03-03,41.9338,-88.7066,Dekalb,IL
+64,Rain,Light,2016-03-04,26.1758,-98.2386,Mcallen,TX
+65,Rain,Light,2016-03-05,47.1377,-122.4765,McChord AFB,WA
+66,Rain,Light,2016-03-06,34.7275,-120.5783,Lompoc,CA
+67,Rain,Heavy,2016-03-07,36.9394,-121.79,Freedom,CA
+68,Rain,Light,2016-03-08,33.7141,-96.6737,Denison,TX
+69,Rain,Light,2016-03-09,28.6516,-96.682,Port Lavaca,TX
+70,Rain,Light,2016-03-10,46.0946,-118.2858,Walla Walla,WA
+71,Rain,Light,2016-03-11,33.1615,-95.6189,Sulphur Springs,TX
+72,Rain,Light,2016-03-12,33.205,-97.2006,Denton,TX
+73,Rain,Light,2016-03-13,40.2895,-88.1473,Rantoul,IL
+74,Storm,Severe,2016-03-14,38.4844,-106.3169,Gunnison,CO
+75,Fog,Moderate,2016-03-15,26.1597,-97.3378,Los Fresnos,TX
+76,Fog,Moderate,2016-03-16,30.071,-94.216,Beaumont,TX
+77,Rain,Light,2016-03-17,32.9686,-96.8364,Addison,TX
+78,Rain,Light,2016-03-18,31.429,-83.48899999999998,Tifton,GA
+79,Rain,Light,2016-03-19,31.885,-82.647,Hazlehurst,GA
+80,Rain,Light,2016-03-20,28.5465,-81.3354,Orlando,FL
+81,Rain,Light,2016-03-21,46.677,-122.9827,Chehalis,WA
+82,Rain,Light,2016-03-22,46.677,-122.9827,Chehalis,WA
+83,Rain,Light,2016-03-23,46.9727,-123.9302,Hoquiam,WA
+84,Fog,Severe,2016-03-24,40.1611,-105.1604,Longmont,CO
+85,Rain,Light,2016-03-25,27.9152,-82.4518,Tampa,FL
+86,Rain,Light,2016-03-26,31.618,-97.2283,Waco,TX
+87,Rain,Light,2016-03-27,47.0792,-122.5808,Tacoma,WA
+88,Rain,Light,2016-03-28,28.9444,-81.9701,Lady Lake,FL
+89,Fog,Severe,2016-03-29,30.0644,-85.5637,Panama City,FL
+90,Rain,Light,2016-03-30,29.505,-95.4765,Rosharon,TX
+91,Rain,Light,2016-03-31,39.0136,-87.6485,Palestine,IL
+92,Rain,Light,2016-04-01,31.9888,-83.7739,Cordele,GA
+93,Rain,Moderate,2016-04-02,29.6917,-82.27600000000002,Gainesville,FL
+94,Rain,Light,2016-04-03,42.4681,-71.2946,Concord,MA
+95,Snow,Light,2016-04-04,43.1083,-78.9382,Niagara Falls,NY
+96,Rain,Light,2016-04-05,47.0792,-122.5808,Tacoma,WA
+97,Rain,Light,2016-04-06,40.4774,-88.9143,Bloomington,IL
+98,Rain,Light,2016-04-07,42.08,-80.1825,Erie,PA
+99,Snow,Light,2016-04-08,42.1078,-77.9842,Wellsville,NY
+100,Rain,Light,2016-04-09,34.021,-118.4471,Santa Monica,CA
+101,Rain,Moderate,2016-04-10,35.4344,-119.0542,Bakersfield,CA
+102,Rain,Light,2016-04-11,29.2543,-96.1544,Wharton,TX
+103,Rain,Light,2016-04-12,37.3071,-108.6264,Cortez,CO
+104,Rain,Light,2016-04-13,26.2285,-97.6544,Harlingen,TX
+105,Rain,Light,2016-04-14,32.9322,-96.4348,Rockwall,TX
+106,Fog,Severe,2016-04-15,31.1525,-97.4078,Temple,TX
+107,Snow,Light,2016-04-16,40.3315,-103.807,Fort Morgan,CO
+108,Precipitation,UNK,2016-04-17,32.2153,-98.1777,Stephenville,TX
+109,Rain,Light,2016-04-18,32.4208,-99.8546,Dyess AFB,TX
+110,Rain,Light,2016-04-19,31.2359,-94.7546,Burke,TX
+111,Rain,Light,2016-04-20,37.1824,-88.7489,Metropolis,IL
+112,Fog,Moderate,2016-04-21,28.6516,-96.682,Port Lavaca,TX
+113,Rain,Light,2016-04-22,38.7605,-87.59899999999998,Lawrenceville,IL
+114,Rain,Light,2016-04-23,37.5119,-122.2483,San Carlos,CA
+115,Rain,Moderate,2016-04-24,27.7734,-97.513,Corpus Christi,TX
+116,Fog,Moderate,2016-04-25,37.5136,-122.4996,Half Moon Bay,CA
+117,Rain,Light,2016-04-26,32.9539,-84.2594,Thomaston,GA
+118,Rain,Light,2016-04-27,30.7285,-87.0219,Milton,FL
+119,Rain,Light,2016-04-28,35.9458,-112.1554,Grand Canyon,AZ
+120,Rain,Light,2016-04-29,42.2413,-78.3714,Hinsdale,NY
+121,Cold,Severe,2016-04-30,30.0333,-85.5333,Panama City,FL
+122,Fog,Severe,2016-05-01,33.9154,-84.5163,Marietta,GA
+123,Rain,Light,2016-05-02,33.9154,-84.5163,Marietta,GA
+124,Rain,Light,2016-05-03,40.8534,-77.8401,State College,PA
+125,Rain,Light,2016-05-04,32.4831,-81.7372,Statesboro,GA
+126,Rain,Light,2016-05-05,26.4338,-81.4014,Immokalee,FL
+127,Fog,Moderate,2016-05-06,30.735,-101.203,Ozona,TX
+128,Hail,Other,2016-05-07,38.9697,-104.8131,Usaf Academy,CO
+129,Rain,Light,2016-05-08,42.4681,-71.2946,Concord,MA
+130,Rain,Light,2016-05-09,41.0231,-89.3885,Lacon,IL
+131,Fog,Moderate,2016-05-10,28.9562,-98.5184,Pleasanton,TX
+132,Rain,Light,2016-05-11,39.0503,-105.5144,Lake George,CO
+133,Rain,Light,2016-05-12,38.564,-90.1487,East Saint Louis,IL
+134,Cold,Severe,2016-05-13,41.0687,-87.8537,Kankakee,IL
+135,Rain,Light,2016-05-14,47.9233,-122.2831,Mukilteo,WA
+136,Rain,Light,2016-05-15,39.0503,-105.5144,Lake George,CO
+137,Rain,Light,2016-05-16,29.5337,-98.4698,San Antonio,TX
+138,Rain,Light,2016-05-17,31.8872,-81.5624,Fort Stewart,GA
+139,Rain,Light,2016-05-18,32.6934,-100.9505,Snyder,TX
+140,Rain,Light,2016-05-19,36.6169,-87.4117,Clarksville,TN
+141,Fog,Severe,2016-05-20,41.6791,-70.9591,New Bedford,MA
+142,Snow,Light,2016-05-21,38.8984,-119.9962,South Lake Tahoe,CA
+143,Rain,Light,2016-05-22,40.3302,-75.1229,Doylestown,PA
+144,Rain,Light,2016-05-23,32.699,-94.9489,Gilmer,TX
+145,Fog,Moderate,2016-05-24,26.1775,-97.9731,Weslaco,TX
+146,Fog,Moderate,2016-05-25,30.5857,-100.6486,Sonora,TX
+147,Fog,Moderate,2016-05-26,29.343000000000004,-98.8497,Castroville,TX
+148,Rain,Light,2016-05-27,42.4908,-76.4583,Ithaca,NY
+149,Rain,Light,2016-05-28,38.75,-104.85,Colorado Springs,CO
+150,Rain,Light,2016-05-29,30.349,-85.788,Panama City,FL
+151,Rain,Moderate,2016-05-30,30.349,-85.788,Panama City,FL
+152,Fog,Moderate,2016-05-31,41.3335,-75.7227,Pittston,PA
+153,Rain,Light,2016-06-01,41.4316,-88.4152,Saratoga,IL
+154,Rain,Light,2016-06-02,28.7248,-96.2535,Palacios,TX
+155,Fog,Severe,2016-06-03,41.7984,-78.6354,Lewis Run,PA
+156,Rain,Light,2016-06-04,38.8897,-90.0316,Bethalto,IL
+157,Rain,Moderate,2016-06-05,36.4797,-82.3989,Blountville,TN
+158,Fog,Severe,2016-06-06,30.7763,-83.2739,Valdosta,GA
+159,Rain,Light,2016-06-07,40.5704,-75.4894,Allentown,PA
+160,Rain,Light,2016-06-08,41.1795,-78.8933,Reynoldsville,PA
+161,Rain,Heavy,2016-06-09,28.7248,-96.2535,Palacios,TX
+162,Rain,Light,2016-06-10,31.3097,-95.4039,Crockett,TX
+163,Rain,Light,2016-06-11,30.3564,-95.008,Cleveland,TX
+164,Rain,Light,2016-06-12,31.9478,-102.2086,Midland,TX
+165,Precipitation,UNK,2016-06-13,25.995,-81.6725,Naples,FL
+166,Rain,Light,2016-06-14,36.6169,-87.4117,Clarksville,TN
+167,Rain,Light,2016-06-15,26.199,-80.1776,Fort Lauderdale,FL
+168,Rain,Light,2016-06-16,29.6342,-104.3615,Marfa,TX
+169,Rain,Light,2016-06-17,30.0644,-85.5637,Panama City,FL
+170,Rain,Light,2016-06-18,44.6509,-73.4681,Plattsburgh,NY
+171,Rain,Light,2016-06-19,32.9322,-96.4348,Rockwall,TX
+172,Fog,Moderate,2016-06-20,32.719,-98.891,Breckenridge,TX
+173,Rain,Light,2016-06-21,42.3606,-71.0097,East Boston,MA
+174,Rain,Light,2016-06-22,44.0556,-75.7195,Fort Drum,NY
+175,Rain,Light,2016-06-23,35.85800000000001,-102.013,Dumas,TX
+176,Fog,Moderate,2016-06-24,39.4743,-88.2723,Mattoon,IL
+177,Rain,Light,2016-06-25,29.6223,-95.6565,Sugar Land,TX
+178,Rain,Light,2016-06-26,32.4674,-100.4666,Sweetwater,TX
+179,Rain,Moderate,2016-06-27,42.4932,-79.2762,Dunkirk,NY
+180,Rain,Light,2016-06-28,29.6073,-95.1587,Houston,TX
+181,Rain,Light,2016-06-29,35.889,-101.03,Miami,TX
+182,Fog,Moderate,2016-06-30,35.135,-118.4392,Tehachapi,CA
+183,Rain,Light,2016-07-01,39.6391,-90.7818,Pittsfield,IL
+184,Rain,Light,2016-07-02,28.866,-82.5741,Crystal River,FL
+185,Rain,Light,2016-07-03,38.564,-90.1487,East Saint Louis,IL
+186,Rain,Light,2016-07-04,32.747,-96.5304,Mesquite,TX
+187,Rain,Heavy,2016-07-05,40.8505,-72.6193,East Quogue,NY
+188,Rain,Light,2016-07-06,33.227,-84.275,Griffin,GA
+189,Rain,Moderate,2016-07-07,36.023,-84.2336,Oak Ridge,TN
+190,Fog,Moderate,2016-07-08,40.2184,-76.8552,New Cumberland,PA
+191,Rain,Light,2016-07-09,32.5633,-82.9854,Dublin,GA
+192,Rain,Light,2016-07-10,40.8217,-72.8689,Shirley,NY
+193,Rain,Light,2016-07-11,32.699,-94.9489,Gilmer,TX
+194,Precipitation,UNK,2016-07-12,30.837,-85.1835,Marianna,FL
+195,Fog,Severe,2016-07-13,38.564,-90.1487,East Saint Louis,IL
+196,Rain,Moderate,2016-07-14,40.0324,-88.2755,Tolono,IL
+197,Rain,Light,2016-07-15,41.8965,-88.2512,West Chicago,IL
+198,Rain,Light,2016-07-16,35.695,-101.395,Borger,TX
+199,Fog,Moderate,2016-07-17,33.9753,-117.6361,Ontario,CA
+200,Rain,Light,2016-07-18,38.9697,-104.8131,Usaf Academy,CO
+201,Rain,Light,2016-07-19,28.615,-80.6945,Orlando,FL
+202,Rain,Light,2016-07-20,40.0117,-105.0503,Erie,CO
+203,Rain,Light,2016-07-21,31.3975,-84.8948,Blakely,GA
+204,Rain,Light,2016-07-22,28.866,-82.5741,Crystal River,FL
+205,Rain,Light,2016-07-23,27.9126,-82.6855,Clearwater,FL
+206,Fog,Severe,2016-07-24,44.9358,-74.8455,Massena,NY
+207,Cold,Severe,2016-07-25,37.8128,-88.5449,Raleigh,IL
+208,Rain,Moderate,2016-07-26,27.8947,-98.0425,Orange Grove,TX
+209,Rain,Light,2016-07-27,29.5297,-98.2789,Universal City,TX
+210,Rain,Heavy,2016-07-28,24.5801,-81.6829,Key West,FL
+211,Rain,Light,2016-07-29,42.4255,-87.8634,Waukegan,IL
+212,Rain,Light,2016-07-30,29.7268,-85.0248,Apalachicola,FL
+213,Cold,Severe,2016-07-31,34.8578,-102.3264,Hereford East,TX
+214,Rain,Light,2016-08-01,37.1824,-88.7489,Metropolis,IL
+215,Rain,Light,2016-08-02,34.594,-83.296,Toccoa,GA
+216,Fog,Severe,2016-08-03,41.8756,-71.0211,East Taunton,MA
+217,Rain,Light,2016-08-04,39.8453,-89.684,Springfield,IL
+218,Rain,Light,2016-08-05,27.4981,-80.3767,Fort Pierce,FL
+219,Precipitation,UNK,2016-08-06,40.3149,-78.8307,Johnstown,PA
+220,Fog,Severe,2016-08-07,40.0503,-105.5839,Bald Mountain,CO
+221,Rain,Light,2016-08-08,25.4949,-80.3732,Homestead,FL
+222,Rain,Light,2016-08-09,24.7263,-81.0477,Marathon,FL
+223,Rain,Light,2016-08-10,26.4338,-81.4014,Immokalee,FL
+224,Rain,Light,2016-08-11,33.535,-112.3832,Luke Air Force Base,AZ
+225,Rain,Light,2016-08-12,39.6391,-90.7818,Pittsfield,IL
+226,Fog,Moderate,2016-08-13,26.1758,-98.2386,Mcallen,TX
+227,Rain,Light,2016-08-14,29.9844,-95.3607,Houston,TX
+228,Fog,Severe,2016-08-15,31.0849,-83.8033,Moultrie,GA
+229,Rain,Light,2016-08-16,38.0887,-88.1213,Carmi,IL
+230,Rain,Light,2016-08-17,38.428,-105.1058,Penrose,CO
+231,Fog,Severe,2016-08-18,38.8897,-90.0316,Bethalto,IL
+232,Rain,Light,2016-08-19,42.1208,-87.9047,Wheeling,IL
+233,Cold,Severe,2016-08-20,39.0136,-87.6485,Palestine,IL
+234,Rain,Light,2016-08-21,47.9375,-124.555,Forks,WA
+235,Rain,Light,2016-08-22,38.5339,-106.933,Gunnison,CO
+236,Rain,Light,2016-08-23,30.9119,-102.9167,Fort Stockton,TX
+237,Rain,Light,2016-08-24,31.3824,-103.5107,Pecos,TX
+238,Rain,Light,2016-08-25,26.9185,-81.9939,Punta Gorda,FL
+239,Rain,Light,2016-08-26,38.8142,-106.1207,Buena Vista,CO
+240,Fog,Severe,2016-08-27,32.9322,-96.4348,Rockwall,TX
+241,Rain,Light,2016-08-28,35.5931,-88.9167,Jackson,TN
+242,Rain,Light,2016-08-29,35.613,-100.9963,Pampa,TX
+243,Fog,Moderate,2016-08-30,33.1283,-117.2801,Oceanside-Escondido,CA
+244,Rain,Heavy,2016-08-31,34.1681,-101.7173,Plainview,TX
+245,Rain,Light,2016-09-01,36.4797,-82.3989,Blountville,TN
+246,Rain,Light,2016-09-02,37.2863,-107.056,Pagosa Springs,CO
+247,Rain,Heavy,2016-09-03,27.9126,-82.6855,Clearwater,FL
+248,Rain,Light,2016-09-04,27.9471,-81.7811,Bartow,FL
+249,Fog,Moderate,2016-09-05,33.3013,-117.3551,Camp Pendleton,CA
+250,Fog,Severe,2016-09-06,28.9731,-95.8633,Bay City,TX
+251,Fog,Severe,2016-09-07,36.6005,-121.8714,Monterey,CA
+252,Rain,Light,2016-09-08,24.5801,-81.6829,Key West,FL
+253,Rain,Heavy,2016-09-09,38.5452,-89.8352,Scott Air Force Base,IL
+254,Fog,Severe,2016-09-10,33.3013,-117.3551,Camp Pendleton,CA
+255,Fog,Severe,2016-09-11,26.4417,-98.1222,Edinburg,TX
+256,Rain,Light,2016-09-12,38.8142,-106.1207,Buena Vista,CO
+257,Fog,Moderate,2016-09-13,35.1575,-114.5594,Bullhead City,AZ
+258,Fog,Severe,2016-09-14,35.5931,-88.9167,Jackson,TN
+259,Rain,Moderate,2016-09-15,35.889,-101.03,Miami,TX
+260,Rain,Light,2016-09-16,39.774,-90.2419,Jacksonville,IL
+261,Rain,Moderate,2016-09-17,42.4932,-79.2762,Dunkirk,NY
+262,Rain,Moderate,2016-09-18,42.6439,-77.053,Penn Yan,NY
+263,Rain,Light,2016-09-19,40.7794,-73.8803,Flushing,NY
+264,Rain,Light,2016-09-20,35.9458,-112.1554,Grand Canyon,AZ
+265,Rain,Light,2016-09-21,31.6839,-83.2709,Fitzgerald,GA
+266,Fog,Severe,2016-09-22,37.4514,-106.8003,Creede,CO
+267,Precipitation,UNK,2016-09-23,29.5189,-95.2417,Pearland,TX
+268,Precipitation,UNK,2016-09-24,34.4275,-100.2833,Childress,TX
+269,Rain,Light,2016-09-25,28.8625,-96.9297,Victoria,TX
+270,Rain,Moderate,2016-09-26,27.5031,-97.8117,Kingsville,TX
+271,Rain,Light,2016-09-27,25.9995,-80.2412,Miramar-Pembroke Pines,FL
+272,Fog,Severe,2016-09-28,31.2589,-81.4661,Everett,GA
+273,Rain,Light,2016-09-29,39.8453,-89.684,Springfield,IL
+274,Rain,Light,2016-09-30,40.779,-73.9692,New York,NY
+275,Rain,Light,2016-10-01,39.9194,-76.8769,Spring Grove,PA
+276,Cold,Severe,2016-10-02,33.286,-117.456,Camp Pendleton,CA
+277,Fog,Severe,2016-10-03,40.8193,-76.8658,Selinsgrove,PA
+278,Fog,Moderate,2016-10-04,29.805,-95.8979,Brookshire,TX
+279,Cold,Severe,2016-10-05,34.2257,-99.2837,Vernon,TX
+280,Fog,Severe,2016-10-06,28.9444,-81.9701,Lady Lake,FL
+281,Rain,Light,2016-10-07,46.677,-122.9827,Chehalis,WA
+282,Fog,Severe,2016-10-08,43.3384,-73.6102,Queensbury,NY
+283,Rain,Light,2016-10-09,41.8756,-71.0211,East Taunton,MA
+284,Fog,Moderate,2016-10-10,33.2544,-97.5806,Decatur,TX
+285,Fog,Moderate,2016-10-11,34.8578,-102.3264,Hereford East,TX
+286,Rain,Light,2016-10-12,39.5599,-104.8484,Englewood,CO
+287,Rain,Light,2016-10-13,41.7841,-87.7551,Chicago,IL
+288,Rain,Moderate,2016-10-14,46.4772,-122.8065,Toledo,WA
+289,Rain,Light,2016-10-15,33.8977,-117.6024,Corona,CA
+290,Rain,Moderate,2016-10-16,38.8984,-119.9962,South Lake Tahoe,CA
+291,Fog,Moderate,2016-10-17,30.1715,-96.9784,Giddings,TX
+292,Rain,Light,2016-10-18,47.6151,-117.6558,Fairchild Air Force Base,WA
+293,Fog,Severe,2016-10-19,31.0559,-82.7741,Homerville,GA
+294,Fog,Moderate,2016-10-20,28.804,-82.318,Inverness,FL
+295,Rain,Heavy,2016-10-21,41.7984,-78.6354,Lewis Run,PA
+296,Rain,Light,2016-10-22,41.1795,-78.8933,Reynoldsville,PA
+297,Fog,Moderate,2016-10-23,39.1361,-121.4366,Beale AFB,CA
+298,Rain,Light,2016-10-24,33.9333,-116.9667,Beaumont,CA
+299,Rain,Light,2016-10-25,43.1083,-78.9382,Niagara Falls,NY
+300,Fog,Severe,2016-10-26,37.2863,-107.056,Pagosa Springs,CO
+301,Rain,Light,2016-10-27,46.4772,-122.8065,Toledo,WA
+302,Rain,Light,2016-10-28,46.9733,-122.9033,Tumwater,WA
+303,Cold,Severe,2016-10-29,30.0692,-93.8036,Orange,TX
+304,Cold,Severe,2016-10-30,46.0946,-118.2858,Walla Walla,WA
+305,Rain,Light,2016-10-31,40.0789,-75.0134,Philadelphia,PA
+306,Rain,Light,2016-11-01,29.9844,-95.3607,Houston,TX
+307,Rain,Light,2016-11-02,28.7248,-96.2535,Palacios,TX
+308,Fog,Moderate,2016-11-03,42.5519,-71.7558,Fitchburg,MA
+309,Fog,Severe,2016-11-04,41.3518,-89.1496,Peru,IL
+310,Rain,Light,2016-11-05,47.4447,-122.3144,Seattle,WA
+311,Rain,Light,2016-11-06,29.3742,-100.9272,Del Rio,TX
+312,Rain,Light,2016-11-07,30.8721,-96.6222,Hearne,TX
+313,Rain,Light,2016-11-08,41.0687,-87.8537,Kankakee,IL
+314,Rain,Light,2016-11-09,30.5881,-96.3639,College Station,TX
+315,Rain,Light,2016-11-10,27.8947,-98.0425,Orange Grove,TX
+316,Rain,Light,2016-11-11,28.6516,-96.682,Port Lavaca,TX
+317,Fog,Severe,2016-11-12,32.6934,-100.9505,Snyder,TX
+318,Rain,Light,2016-11-13,25.9146,-97.4231,Brownsville,TX
+319,Cold,Severe,2016-11-14,35.5544,-87.1791,Mount Pleasant,TN
+320,Rain,Moderate,2016-11-15,41.8756,-71.0211,East Taunton,MA
+321,Rain,Light,2016-11-16,45.621,-122.6542,Vancouver,WA
+322,Cold,Severe,2016-11-17,30.0333,-85.5333,Panama City,FL
+323,Rain,Light,2016-11-18,29.7086,-98.0453,New Braunfels,TX
+324,Fog,Moderate,2016-11-19,40.2184,-76.8552,New Cumberland,PA
+325,Snow,Light,2016-11-20,40.6499,-75.4477,Catasauqua,PA
+326,Rain,Light,2016-11-21,47.9375,-124.555,Forks,WA
+327,Snow,Light,2016-11-22,44.0556,-75.7195,Fort Drum,NY
+328,Fog,Moderate,2016-11-23,36.3712,-82.1734,Elizabethton,TN
+329,Rain,Light,2016-11-24,32.699,-94.9489,Gilmer,TX
+330,Rain,Light,2016-11-25,41.7841,-87.7551,Chicago,IL
+331,Rain,Light,2016-11-26,38.6676,-121.4006,McClellan,CA
+332,Rain,Light,2016-11-27,37.5119,-122.2483,San Carlos,CA
+333,Rain,Light,2016-11-28,28.0013,-82.1593,Plant City,FL
+334,Rain,Moderate,2016-11-29,34.2719,-83.8303,Gainesville,GA
+335,Fog,Severe,2016-11-30,32.8875,-112.72,Gila Bend,AZ
+336,Snow,Light,2016-12-01,47.6214,-117.5278,Spokane,WA
+337,Snow,Light,2016-12-02,41.7984,-78.6354,Lewis Run,PA
+338,Rain,Light,2016-12-03,31.1387,-97.7145,Fort Hood,TX
+339,Rain,Light,2016-12-04,39.9371,-91.1966,Quincy,IL
+340,Rain,Light,2016-12-05,30.071,-94.216,Beaumont,TX
+341,Rain,Light,2016-12-06,30.9791,-83.1925,Moody Afb,GA
+342,Snow,Light,2016-12-07,37.2622,-104.3318,Trinidad,CO
+343,Rain,Light,2016-12-08,28.3692,-97.7953,Beeville,TX
+344,Snow,Light,2016-12-09,40.9233,-88.6213,Pontiac,IL
+345,Snow,Light,2016-12-10,47.6828,-117.3226,Spokane,WA
+346,Rain,Light,2016-12-11,25.4949,-80.3732,Homestead,FL
+347,Rain,Light,2016-12-12,42.4932,-79.2762,Dunkirk,NY
+348,Rain,Light,2016-12-13,27.5437,-99.4616,Laredo,TX
+349,Snow,Light,2016-12-14,43.1167,-77.6767,Rochester,NY
+350,Precipitation,UNK,2016-12-15,38.9092,-121.3513,Lincoln,CA
+351,Snow,Light,2016-12-16,46.5667,-119.6,Hanford Site,WA
+352,Cold,Severe,2016-12-17,34.0903,-117.2471,San Bernardino,CA
+353,Rain,Light,2016-12-18,36.009,-86.5201,Smyrna,TN
+354,Rain,Light,2016-12-19,33.9486,-83.3263,Athens,GA
+355,Rain,Light,2016-12-20,24.5571,-81.7554,Key West,FL
+356,Rain,Light,2016-12-21,35.9458,-112.1554,Grand Canyon,AZ
+357,Rain,Light,2016-12-22,34.7412,-118.2125,Lancaster,CA
+358,Rain,Light,2016-12-23,34.8468,-111.7884,Sedona,AZ
+359,Snow,Moderate,2016-12-24,38.8984,-119.9962,South Lake Tahoe,CA
+360,Rain,Light,2016-12-25,38.9439,-104.5684,Peyton,CO
+361,Rain,Light,2016-12-26,28.9731,-95.8633,Bay City,TX
+362,Rain,Light,2016-12-27,30.7439,-95.5861,Huntsville,TX
+363,Snow,Light,2016-12-28,43.3504,-76.3832,Fulton,NY
+364,Rain,Light,2016-12-29,42.0744,-70.2182,Provincetown,MA
+365,Snow,Heavy,2016-12-30,42.4681,-71.2946,Concord,MA
+366,Rain,Light,2016-12-31,32.1667,-110.8833,Tucson,AZ
+367,Fog,Severe,2017-01-01,27.5031,-97.8117,Kingsville,TX
+368,Rain,Light,2017-01-02,31.5365,-84.1957,Albany,GA
+369,Rain,Light,2017-01-03,40.5176,-90.6481,Macomb,IL
+370,Rain,Light,2017-01-04,25.9995,-80.2412,Miramar-Pembroke Pines,FL
+371,Snow,Light,2017-01-05,40.7735,-80.3825,Beaver Falls,PA
+372,Snow,Light,2017-01-06,40.0853,-78.5122,Bedford,PA
+373,Cold,Severe,2017-01-07,40.5153,-106.8677,Steamboat Springs,CO
+374,Rain,Light,2017-01-08,38.7007,-121.5948,Sacramento,CA
+375,Rain,Moderate,2017-01-09,34.1997,-118.3654,Burbank,CA
+376,Fog,Moderate,2017-01-10,40.6322,-79.1055,Indiana,PA
+377,Snow,Moderate,2017-01-11,44.9358,-74.8455,Massena,NY
+378,Rain,Light,2017-01-12,34.0235,-118.2912,Los Angeles,CA
+379,Cold,Severe,2017-01-13,35.5544,-87.1791,Mount Pleasant,TN
+380,Snow,Moderate,2017-01-14,40.7344,-73.4164,Farmingdale,NY
+381,Rain,Light,2017-01-15,34.1681,-101.7173,Plainview,TX
+382,Fog,Moderate,2017-01-16,40.3552,-79.9214,West Mifflin,PA
+383,Rain,Light,2017-01-17,31.3097,-95.4039,Crockett,TX
+384,Rain,Moderate,2017-01-18,29.6223,-95.6565,Sugar Land,TX
+385,Rain,Light,2017-01-19,33.9228,-118.3352,Hawthorne,CA
+386,Rain,Moderate,2017-01-20,41.7837,-124.238,Crescent City,CA
+387,Fog,Severe,2017-01-21,40.2184,-76.8552,New Cumberland,PA
+388,Rain,Light,2017-01-22,47.6828,-117.3226,Spokane,WA
+389,Rain,Heavy,2017-01-23,25.995,-81.6725,Naples,FL
+390,Rain,Moderate,2017-01-24,41.6875,-69.9933,Chatham,MA
+391,Snow,Light,2017-01-25,37.9538,-107.9085,Telluride,CO
+392,Fog,Moderate,2017-01-26,48.3552,-122.6635,Oak Harbor,WA
+393,Snow,Light,2017-01-27,40.0853,-78.5122,Bedford,PA
+394,Fog,Moderate,2017-01-28,46.56399999999999,-120.5348,Yakima,WA
+395,Snow,Light,2017-01-29,44.6509,-73.4681,Plattsburgh,NY
+396,Snow,Light,2017-01-30,40.5704,-75.4894,Allentown,PA
+397,Rain,Light,2017-01-31,42.1208,-87.9047,Wheeling,IL
+398,Fog,Moderate,2017-02-01,33.9753,-117.6361,Ontario,CA
+399,Fog,Moderate,2017-02-02,34.2001,-119.2041,Oxnard,CA
+400,Fog,Moderate,2017-02-03,47.3076,-119.5159,Ephrata,WA
+401,Snow,Light,2017-02-04,47.2765,-121.3382,Enumclaw,WA
+402,Snow,Light,2017-02-05,47.6214,-117.5278,Spokane,WA
+403,Snow,Moderate,2017-02-06,48.1219,-123.5066,Port Angeles,WA
+404,Snow,Light,2017-02-07,42.7126,-71.1255,North Andover,MA
+405,Rain,Light,2017-02-08,33.9486,-83.3263,Athens,GA
+406,Rain,Light,2017-02-09,46.0946,-118.2858,Walla Walla,WA
+407,Precipitation,UNK,2017-02-10,38.7242,-120.7533,Placerville,CA
+408,Fog,Moderate,2017-02-11,32.719,-98.891,Breckenridge,TX
+409,Snow,Moderate,2017-02-12,41.5092,-74.265,Montgomery,NY
+410,Fog,Severe,2017-02-13,42.0744,-70.2182,Provincetown,MA
+411,Fog,Severe,2017-02-14,37.89,-121.2264,Stockton,CA
+412,Rain,Light,2017-02-15,41.6584,-70.5214,Sandwich,MA
+413,Rain,Light,2017-02-16,38.2667,-121.95,Travis Afb,CA
+414,Cold,Severe,2017-02-17,35.6656,-121.2847,San Simeon,CA
+415,Rain,Moderate,2017-02-18,32.5723,-116.9802,San Diego,CA
+416,Fog,Severe,2017-02-19,30.4833,-86.5254,Eglin Afb,FL
+417,Rain,Light,2017-02-20,33.6011,-97.7735,Bowie,TX
+418,Fog,Moderate,2017-02-21,29.3009,-81.111,Ormond Beach,FL
+419,Rain,Moderate,2017-02-22,30.0644,-85.5637,Panama City,FL
+420,Fog,Severe,2017-02-23,39.6443,-106.9144,Gypsum,CO
+421,Snow,Light,2017-02-24,39.1342,-108.54,Grand Junction,CO
+422,Snow,Light,2017-02-25,39.32,-120.1396,Truckee,CA
+423,Rain,Light,2017-02-26,33.0375,-116.9158,Ramona,CA
+424,Fog,Severe,2017-02-27,32.699,-94.9489,Gilmer,TX
+425,Fog,Severe,2017-02-28,30.3564,-87.3233,Pensacola,FL
+426,Rain,Light,2017-03-01,42.1078,-77.9842,Wellsville,NY
+427,Fog,Moderate,2017-03-02,39.32,-120.1396,Truckee,CA
+428,Fog,Moderate,2017-03-03,35.2805,-116.63,Fort Irwin,CA
+429,Snow,Light,2017-03-04,46.9733,-122.9033,Tumwater,WA
+430,Rain,Light,2017-03-05,32.699,-94.9489,Gilmer,TX
+431,Snow,Light,2017-03-06,47.9375,-124.555,Forks,WA
+432,Rain,Light,2017-03-07,42.2706,-71.8731,Worcester,MA
+433,Cold,Severe,2017-03-08,32.9667,-82.8382,Sandersville,GA
+434,Rain,Light,2017-03-09,29.908,-96.95,La Grange,TX
+435,Fog,Severe,2017-03-10,41.8756,-71.0211,East Taunton,MA
+436,Snow,Light,2017-03-11,42.5926,-76.2149,Cortland,NY
+437,Rain,Light,2017-03-12,30.5069,-86.9597,Eglin AFB,FL
+438,Rain,Light,2017-03-13,32.9322,-96.4348,Rockwall,TX
+439,Fog,Severe,2017-03-14,42.6439,-77.053,Penn Yan,NY
+440,Rain,Light,2017-03-15,47.9233,-122.2831,Mukilteo,WA
+441,Snow,Light,2017-03-16,42.4932,-79.2762,Dunkirk,NY
+442,Rain,Light,2017-03-17,37.1824,-88.7489,Metropolis,IL
+443,Rain,Light,2017-03-18,47.1377,-122.4765,McChord AFB,WA
+444,Snow,Heavy,2017-03-19,39.7341,-77.4304,Fairfield,PA
+445,Rain,Light,2017-03-20,40.9233,-88.6213,Pontiac,IL
+446,Rain,Light,2017-03-21,38.6676,-121.4006,McClellan,CA
+447,Fog,Severe,2017-03-22,28.9562,-98.5184,Pleasanton,TX
+448,Snow,Light,2017-03-23,37.2863,-107.056,Pagosa Springs,CO
+449,Rain,Light,2017-03-24,47.0792,-122.5808,Tacoma,WA
+450,Rain,Moderate,2017-03-25,30.3567,-95.4139,Conroe,TX
+451,Rain,Light,2017-03-26,35.81800000000001,-83.9857,Alcoa,TN
+452,Rain,Moderate,2017-03-27,42.2706,-71.8731,Worcester,MA
+453,Snow,Light,2017-03-28,37.9538,-107.9085,Telluride,CO
+454,Rain,Light,2017-03-29,40.779,-73.9692,New York,NY
+455,Fog,Severe,2017-03-30,30.7285,-87.0219,Milton,FL
+456,Rain,Moderate,2017-03-31,40.1206,-76.2945,Lititz,PA
+457,Fog,Severe,2017-04-01,40.1743,-103.2146,Akron,CO
+458,Rain,Heavy,2017-04-02,29.3665,-100.7847,Del Rio,TX
+459,Rain,Light,2017-04-03,31.6839,-83.2709,Fitzgerald,GA
+460,Rain,Light,2017-04-04,31.8872,-81.5624,Fort Stewart,GA
+461,Rain,Light,2017-04-05,39.4743,-88.2723,Mattoon,IL
+462,Rain,Light,2017-04-06,32.6091,-82.3699,Swainsboro,GA
+463,Snow,Light,2017-04-07,41.6258,-80.2123,Meadville,PA
+464,Snow,Light,2017-04-08,37.624,-118.838,Mammoth Lakes,CA
+465,Snow,Light,2017-04-09,39.4752,-106.1523,Breckenridge,CO
+466,Rain,Light,2017-04-10,41.0231,-89.3885,Lacon,IL
+467,Rain,Moderate,2017-04-11,28.6516,-96.682,Port Lavaca,TX
+468,Rain,Light,2017-04-12,36.3712,-82.1734,Elizabethton,TN
+469,Rain,Light,2017-04-13,30.7285,-87.0219,Milton,FL
+470,Rain,Light,2017-04-14,47.1039,-122.2872,Puyallup,WA
+471,Fog,Moderate,2017-04-15,33.9753,-117.6361,Ontario,CA
+472,Rain,Light,2017-04-16,41.4316,-88.4152,Saratoga,IL
+473,Rain,Light,2017-04-17,29.3665,-100.7847,Del Rio,TX
+474,Fog,Severe,2017-04-18,33.2544,-97.5806,Decatur,TX
+475,Fog,Severe,2017-04-19,31.5401,-82.5074,Alma,GA
+476,Rain,Light,2017-04-20,40.6392,-73.7639,Jamaica,NY
+477,Rain,Light,2017-04-21,46.0946,-118.2858,Walla Walla,WA
+478,Rain,Light,2017-04-22,38.5452,-89.8352,Scott Air Force Base,IL
+479,Rain,Light,2017-04-23,26.2464,-80.111,Pompano Beach,FL
+480,Fog,Severe,2017-04-24,40.9596,-72.2519,Wainscott,NY
+481,Rain,Light,2017-04-25,46.9727,-123.9302,Hoquiam,WA
+482,Rain,Light,2017-04-26,33.6366,-95.4507,Paris,TX
+483,Fog,Severe,2017-04-27,41.8756,-71.0211,East Taunton,MA
+484,Fog,Severe,2017-04-28,34.594,-83.296,Toccoa,GA
+485,Rain,Light,2017-04-29,41.1795,-78.8933,Reynoldsville,PA
+486,Rain,Light,2017-04-30,38.564,-90.1487,East Saint Louis,IL
+487,Snow,Light,2017-05-01,39.4752,-106.1523,Breckenridge,CO
+488,Rain,Heavy,2017-05-02,42.4269,-73.289,Pittsfield,MA
+489,Fog,Moderate,2017-05-03,29.1735,-81.0719,Daytona Beach,FL
+490,Rain,Light,2017-05-04,30.7311,-86.1538,Defuniak Springs,FL
+491,Rain,Light,2017-05-05,30.7285,-87.0219,Milton,FL
+492,Rain,Light,2017-05-06,40.8534,-77.8401,State College,PA
+493,Rain,Light,2017-05-07,35.4344,-119.0542,Bakersfield,CA
+494,Rain,Light,2017-05-08,40.6499,-75.4477,Catasauqua,PA
+495,Rain,Moderate,2017-05-09,39.8466,-104.6562,Denver,CO
+496,Fog,Severe,2017-05-10,39.4256,-107.3792,Glenwood Springs,CO
+497,Rain,Light,2017-05-11,40.0324,-88.2755,Tolono,IL
+498,Fog,Moderate,2017-05-12,36.0296,-119.0627,Porterville,CA
+499,Rain,Moderate,2017-05-13,40.0789,-75.0134,Philadelphia,PA
+500,Fog,Moderate,2017-05-14,37.5136,-122.4996,Half Moon Bay,CA
+501,Fog,Severe,2017-05-15,36.0528,-85.5359,Sparta,TN
+502,Rain,Light,2017-05-16,48.52,-123.0264,Friday Harbor,WA
+503,Rain,Heavy,2017-05-17,27.6556,-80.4179,Vero Beach,FL
+504,Fog,Moderate,2017-05-18,33.912,-84.941,Dallas,GA
+505,Snow,Moderate,2017-05-19,40.0503,-105.5839,Bald Mountain,CO
+506,Rain,Light,2017-05-20,29.5337,-98.4698,San Antonio,TX
+507,Rain,Light,2017-05-21,29.5337,-98.4698,San Antonio,TX
+508,Rain,Light,2017-05-22,32.1441,-94.8539,Henderson,TX
+509,Rain,Light,2017-05-23,32.6809,-96.8682,Dallas,TX
+510,Rain,Light,2017-05-24,30.4833,-86.5254,Eglin Afb,FL
+511,Rain,Light,2017-05-25,40.7012,-74.009,New York,NY
+512,Rain,Light,2017-05-26,39.2733,-103.6674,Limon,CO
+513,Fog,Severe,2017-05-27,41.7432,-89.6655,Rock Falls,IL
+514,Rain,Light,2017-05-28,33.227,-84.275,Griffin,GA
+515,Rain,Heavy,2017-05-29,33.9154,-84.5163,Marietta,GA
+516,Rain,Light,2017-05-30,34.3122,-84.4222,Ball Ground,GA
+517,Rain,Light,2017-05-31,27.8947,-98.0425,Orange Grove,TX
+518,Rain,Light,2017-06-01,46.7438,-117.1158,Pullman,WA
+519,Fog,Severe,2017-06-02,38.4844,-106.3169,Gunnison,CO
+520,Fog,Moderate,2017-06-03,41.7713,-88.4815,Sugar Grove,IL
+521,Rain,Light,2017-06-04,30.7285,-87.0219,Milton,FL
+522,Rain,Light,2017-06-05,34.3478,-85.1611,Rome,GA
+523,Rain,Heavy,2017-06-06,26.5381,-81.7567,Fort Myers,FL
+524,Rain,Light,2017-06-07,27.9889,-82.0186,Lakeland,FL
+525,Fog,Severe,2017-06-08,31.8331,-104.8098,Salt Flat,TX
+526,Fog,Severe,2017-06-09,36.6169,-87.4117,Clarksville,TN
+527,Rain,Light,2017-06-10,40.3149,-78.8307,Johnstown,PA
+528,Fog,Severe,2017-06-11,29.8958,-97.8664,Maxwell,TX
+529,Cold,Severe,2017-06-12,33.286,-117.456,Camp Pendleton,CA
+530,Rain,Light,2017-06-13,31.5365,-84.1957,Albany,GA
+531,Fog,Severe,2017-06-14,32.8157,-117.1396,San Diego,CA
+532,Rain,Light,2017-06-15,40.3149,-78.8307,Johnstown,PA
+533,Rain,Light,2017-06-16,41.7837,-124.238,Crescent City,CA
+534,Rain,Light,2017-06-17,33.9829,-83.6674,Winder,GA
+535,Rain,Light,2017-06-18,33.631,-85.152,Carrollton,GA
+536,Rain,Light,2017-06-19,26.5381,-81.7567,Fort Myers,FL
+537,Cold,Severe,2017-06-20,35.6656,-121.2847,San Simeon,CA
+538,Rain,Light,2017-06-21,31.4767,-82.8606,Douglas,GA
+539,Rain,Light,2017-06-22,40.0853,-78.5122,Bedford,PA
+540,Rain,Light,2017-06-23,44.6509,-73.4681,Plattsburgh,NY
+541,Rain,Heavy,2017-06-24,29.9844,-95.3607,Houston,TX
+542,Rain,Light,2017-06-25,28.7797,-81.2436,Sanford,FL
+543,Cold,Severe,2017-06-26,32.563,-117.1109,Imperial Beach,CA
+544,Rain,Light,2017-06-27,29.6917,-82.27600000000002,Gainesville,FL
+545,Rain,Moderate,2017-06-28,41.4482,-90.5236,Milan,IL
+546,Rain,Light,2017-06-29,27.0716,-82.4403,Venice,FL
+547,Fog,Moderate,2017-06-30,27.7409,-98.0269,Alice,TX
+548,Rain,Light,2017-07-01,31.1525,-97.4078,Temple,TX
+549,Rain,Light,2017-07-02,26.6851,-80.0992,West Palm Beach,FL
+550,Rain,Light,2017-07-03,27.9889,-82.0186,Lakeland,FL
+551,Rain,Light,2017-07-04,32.7403,-95.4945,Mineola,TX
+552,Rain,Light,2017-07-05,31.3824,-103.5107,Pecos,TX
+553,Rain,Light,2017-07-06,34.3478,-85.1611,Rome,GA
+554,Rain,Light,2017-07-07,32.5832,-96.7209,Southwest Dallas,TX
+555,Rain,Light,2017-07-08,31.4767,-82.8606,Douglas,GA
+556,Rain,Light,2017-07-09,37.2622,-104.3318,Trinidad,CO
+557,Precipitation,UNK,2017-07-10,31.5778,-94.7094,Nacogdoches,TX
+558,Rain,Moderate,2017-07-11,33.3644,-81.9633,Augusta,GA
+559,Rain,Light,2017-07-12,39.7341,-77.4304,Fairfield,PA
+560,Rain,Heavy,2017-07-13,30.1838,-82.5684,Lake City,FL
+561,Fog,Severe,2017-07-14,39.7945,-105.7639,Granby,CO
+562,Fog,Severe,2017-07-15,40.9329,-90.4334,Galesburg,IL
+563,Rain,Moderate,2017-07-16,40.1589,-89.3389,Lincoln,IL
+564,Rain,Light,2017-07-17,39.7945,-105.7639,Granby,CO
+565,Rain,Light,2017-07-18,30.0692,-93.8036,Orange,TX
+566,Rain,Light,2017-07-19,34.257,-111.339,Payson,AZ
+567,Rain,Light,2017-07-20,26.9688,-99.2489,Zapata,TX
+568,Cold,Severe,2017-07-21,30.3925,-97.5621,Manor,TX
+569,Rain,Heavy,2017-07-22,40.4814,-80.2083,Pittsburgh,PA
+570,Rain,Light,2017-07-23,32.6091,-82.3699,Swainsboro,GA
+571,Rain,Light,2017-07-24,37.9538,-107.9085,Telluride,CO
+572,Rain,Light,2017-07-25,32.1927,-82.3712,Vidalia,GA
+573,Rain,Moderate,2017-07-26,40.6499,-75.4477,Catasauqua,PA
+574,Rain,Light,2017-07-27,28.0614,-81.7568,Winter Haven,FL
+575,Fog,Severe,2017-07-28,42.1078,-77.9842,Wellsville,NY
+576,Rain,Light,2017-07-29,26.1554,-81.7746,Naples,FL
+577,Rain,Light,2017-07-30,34.2686,-110.002,Show Low,AZ
+578,Rain,Light,2017-07-31,30.5857,-100.6486,Sonora,TX
+579,Rain,Light,2017-08-01,32.8875,-112.72,Gila Bend,AZ
+580,Fog,Moderate,2017-08-02,33.9753,-117.6361,Ontario,CA
+581,Rain,Moderate,2017-08-03,28.6516,-96.682,Port Lavaca,TX
+582,Rain,Light,2017-08-04,40.9329,-90.4334,Galesburg,IL
+583,Rain,Light,2017-08-05,32.567,-84.251,Butler,GA
+584,Fog,Severe,2017-08-06,33.0062,-85.0661,Lagrange,GA
+585,Rain,Moderate,2017-08-07,30.3207,-97.7601,Austin,TX
+586,Rain,Light,2017-08-08,32.5633,-82.9854,Dublin,GA
+587,Fog,Moderate,2017-08-09,33.286,-117.456,Camp Pendleton,CA
+588,Rain,Light,2017-08-10,31.8872,-81.5624,Fort Stewart,GA
+589,Fog,Severe,2017-08-11,41.7837,-124.238,Crescent City,CA
+590,Precipitation,UNK,2017-08-12,32.6809,-96.8682,Dallas,TX
+591,Rain,Light,2017-08-13,46.5667,-119.6,Hanford Site,WA
+592,Rain,Light,2017-08-14,32.4208,-99.8546,Dyess AFB,TX
+593,Rain,Light,2017-08-15,30.3934,-86.4674,Destin,FL
+594,Rain,Light,2017-08-16,41.7016,-74.795,Bethel,NY
+595,Rain,Light,2017-08-17,31.618,-97.2283,Waco,TX
+596,Rain,Moderate,2017-08-18,44.0556,-75.7195,Fort Drum,NY
+597,Fog,Severe,2017-08-19,40.5146,-122.2977,Redding,CA
+598,Rain,Light,2017-08-20,34.4275,-100.2833,Childress,TX
+599,Fog,Moderate,2017-08-21,30.3564,-95.008,Cleveland,TX
+600,Rain,Light,2017-08-22,41.5092,-74.265,Montgomery,NY
+601,Rain,Light,2017-08-23,27.4014,-82.5586,Sarasota,FL
+602,Rain,Light,2017-08-24,25.6423,-80.4347,Miami,FL
+603,Rain,Light,2017-08-25,40.7735,-80.3825,Beaver Falls,PA
+604,Rain,Light,2017-08-26,30.2189,-96.3742,Brenham,TX
+605,Rain,Light,2017-08-27,30.5881,-96.3639,College Station,TX
+606,Rain,Light,2017-08-28,41.4316,-88.4152,Saratoga,IL
+607,Rain,Light,2017-08-29,37.4514,-106.8003,Creede,CO
+608,Rain,Light,2017-08-30,32.567,-84.251,Butler,GA
+609,Cold,Severe,2017-08-31,40.7769,-79.9497,Butler,PA
+610,Fog,Severe,2017-09-01,32.6922,-117.2098,San Diego,CA
+611,Rain,Light,2017-09-02,26.4338,-81.4014,Immokalee,FL
+612,Rain,Moderate,2017-09-03,44.0556,-75.7195,Fort Drum,NY
+613,Rain,Light,2017-09-04,30.7285,-87.0219,Milton,FL
+614,Fog,Severe,2017-09-05,46.2696,-119.1181,Pasco,WA
+615,Rain,Moderate,2017-09-06,28.7797,-81.2436,Sanford,FL
+616,Rain,Light,2017-09-07,42.94,-78.736,Buffalo,NY
+617,Fog,Moderate,2017-09-08,32.1638,-95.8284,Athens,TX
+618,Fog,Moderate,2017-09-09,38.7869,-108.0658,Delta,CO
+619,Rain,Moderate,2017-09-10,26.199,-80.1776,Fort Lauderdale,FL
+620,Rain,Light,2017-09-11,32.6401,-83.5918,Warner Robins,GA
+621,Fog,Severe,2017-09-12,42.57,-72.2869,Orange,MA
+622,Rain,Light,2017-09-13,38.7213,-88.1799,Noble,IL
+623,Fog,Moderate,2017-09-14,32.9322,-96.4348,Rockwall,TX
+624,Snow,Light,2017-09-15,38.4844,-106.3169,Gunnison,CO
+625,Fog,Severe,2017-09-16,41.6875,-69.9933,Chatham,MA
+626,Rain,Light,2017-09-17,37.2622,-104.3318,Trinidad,CO
+627,Rain,Light,2017-09-18,37.0639,-89.2232,Cairo,IL
+628,Fog,Severe,2017-09-19,29.505,-95.4765,Rosharon,TX
+629,Rain,Light,2017-09-20,36.1189,-86.6892,Nashville,TN
+630,Fog,Severe,2017-09-21,28.4739,-82.4537,Brooksville,FL
+631,Rain,Moderate,2017-09-22,41.6875,-69.9933,Chatham,MA
+632,Rain,Light,2017-09-23,29.3842,-98.5811,Jbsa Lackland,TX
+633,Fog,Severe,2017-09-24,42.0983,-70.6722,Marshfield,MA
+634,Rain,Light,2017-09-25,32.4113,-99.6819,Abilene,TX
+635,Rain,Light,2017-09-26,46.9727,-123.9302,Hoquiam,WA
+636,Rain,Light,2017-09-27,40.0378,-105.2274,Boulder,CO
+637,Fog,Moderate,2017-09-28,29.1735,-81.0719,Daytona Beach,FL
+638,Rain,Light,2017-09-29,24.5571,-81.7554,Key West,FL
+639,Rain,Light,2017-09-30,48.1585,-122.1591,Arlington,WA
+640,Rain,Light,2017-10-01,35.8929,-100.4046,Canadian,TX
+641,Snow,Moderate,2017-10-02,39.2299,-106.8705,Aspen,CO
+642,Fog,Severe,2017-10-03,39.7945,-105.7639,Granby,CO
+643,Rain,Light,2017-10-04,30.5271,-98.3588,Llano South,TX
+644,Rain,Light,2017-10-05,39.6391,-90.7818,Pittsfield,IL
+645,Rain,Light,2017-10-06,40.6392,-73.7639,Jamaica,NY
+646,Rain,Moderate,2017-10-07,41.4316,-88.4152,Saratoga,IL
+647,Rain,Light,2017-10-08,40.5704,-75.4894,Allentown,PA
+648,Rain,Light,2017-10-09,43.3504,-76.3832,Fulton,NY
+649,Fog,Moderate,2017-10-10,29.1637,-82.221,Ocala,FL
+650,Rain,Light,2017-10-11,38.5452,-89.8352,Scott Air Force Base,IL
+651,Fog,Severe,2017-10-12,33.6514,-97.1969,Muenster,TX
+652,Fog,Severe,2017-10-13,46.4772,-122.8065,Toledo,WA
+653,Fog,Severe,2017-10-14,39.7341,-77.4304,Fairfield,PA
+654,Fog,Severe,2017-10-15,27.5031,-97.8117,Kingsville,TX
+655,Rain,Light,2017-10-16,39.9889,-75.5803,West Chester,PA
+656,Fog,Moderate,2017-10-17,36.78,-119.7194,Fresno,CA
+657,Fog,Severe,2017-10-18,40.4518,-105.0113,Loveland,CO
+658,Rain,Moderate,2017-10-19,47.4903,-122.7648,Port Orchard,WA
+659,Rain,Light,2017-10-20,30.3564,-95.008,Cleveland,TX
+660,Rain,Light,2017-10-21,46.7438,-117.1158,Pullman,WA
+661,Rain,Light,2017-10-22,42.0454,-90.1101,Savanna,IL
+662,Rain,Light,2017-10-23,29.1637,-82.221,Ocala,FL
+663,Fog,Severe,2017-10-24,36.3135,-119.3884,Visalia,CA
+664,Cold,Severe,2017-10-25,47.5455,-122.3147,Seattle,WA
+665,Rain,Light,2017-10-26,42.0744,-70.2182,Provincetown,MA
+666,Rain,Light,2017-10-27,32.0843,-97.0958,Hillsboro,TX
+667,Rain,Light,2017-10-28,30.3935,-84.3513,Tallahassee,FL
+668,Fog,Moderate,2017-10-29,32.8274,-116.9737,El Cajon,CA
+669,Rain,Moderate,2017-10-30,41.8756,-71.0211,East Taunton,MA
+670,Rain,Light,2017-10-31,32.6934,-100.9505,Snyder,TX
+671,Rain,Light,2017-11-01,29.908,-96.95,La Grange,TX
+672,Fog,Moderate,2017-11-02,41.9875,-87.9319,Bensenville,IL
+673,Rain,Light,2017-11-03,39.0136,-87.6485,Palestine,IL
+674,Fog,Severe,2017-11-04,34.7434,-118.7253,Lebec,CA
+675,Fog,Severe,2017-11-05,41.8906,-89.0817,Rochelle,IL
+676,Rain,Light,2017-11-06,37.0639,-89.2232,Cairo,IL
+677,Rain,Moderate,2017-11-07,39.9889,-75.5803,West Chester,PA
+678,Fog,Severe,2017-11-08,30.7311,-86.1538,Defuniak Springs,FL
+679,Rain,Light,2017-11-09,30.1838,-82.5684,Lake City,FL
+680,Fog,Moderate,2017-11-10,33.11,-98.5553,Graham,TX
+681,Fog,Severe,2017-11-11,38.2132,-122.2807,Napa,CA
+682,Fog,Severe,2017-11-12,36.9211,-111.4487,Page,AZ
+683,Fog,Moderate,2017-11-13,31.7784,-95.7047,Palestine,TX
+684,Rain,Light,2017-11-14,48.1585,-122.1591,Arlington,WA
+685,Rain,Light,2017-11-15,37.0639,-89.2232,Cairo,IL
+686,Rain,Light,2017-11-16,41.6258,-80.2123,Meadville,PA
+687,Fog,Moderate,2017-11-17,32.214,-83.12799999999999,Eastman,GA
+688,Fog,Moderate,2017-11-18,29.6917,-82.27600000000002,Gainesville,FL
+689,Rain,Light,2017-11-19,36.023,-84.2336,Oak Ridge,TN
+690,Rain,Light,2017-11-20,47.1377,-122.4765,McChord AFB,WA
+691,Rain,Light,2017-11-21,47.1377,-122.4765,McChord AFB,WA
+692,Rain,Light,2017-11-22,47.2381,-123.1408,Shelton,WA
+693,Rain,Light,2017-11-23,27.2663,-80.8487,Okeechobee,FL
+694,Rain,Light,2017-11-24,28.0614,-81.7568,Winter Haven,FL
+695,Fog,Severe,2017-11-25,28.2281,-82.1559,Zephyrhills,FL
+696,Rain,Moderate,2017-11-26,47.9233,-122.2831,Mukilteo,WA
+697,Snow,Light,2017-11-27,44.3853,-74.2062,Saranac Lake,NY
+698,Fog,Moderate,2017-11-28,35.5544,-87.1791,Mount Pleasant,TN
+699,Storm,Severe,2017-11-29,37.5011,-105.1669,Blanca,CO
+700,Rain,Light,2017-11-30,35.9513,-85.085,Crossville,TN
+701,Rain,Heavy,2017-12-01,47.9375,-124.555,Forks,WA
+702,Fog,Moderate,2017-12-02,33.8977,-117.6024,Corona,CA
+703,Rain,Light,2017-12-03,40.9785,-124.1048,McKinleyville,CA
+704,Fog,Moderate,2017-12-04,27.9471,-81.7811,Bartow,FL
+705,Rain,Light,2017-12-05,41.672,-70.2697,Hyannis,MA
+706,Fog,Severe,2017-12-06,47.1377,-122.4765,McChord AFB,WA
+707,Rain,Light,2017-12-07,33.3644,-81.9633,Augusta,GA
+708,Rain,Light,2017-12-08,33.5978,-83.1389,Greensboro,GA
+709,Rain,Light,2017-12-09,25.9995,-80.2412,Miramar-Pembroke Pines,FL
+710,Cold,Severe,2017-12-10,28.5148,-80.7992,Titusville,FL
+711,Snow,Light,2017-12-11,43.1167,-77.6767,Rochester,NY
+712,Snow,Light,2017-12-12,42.94,-78.736,Buffalo,NY
+713,Snow,Light,2017-12-13,40.7344,-73.4164,Farmingdale,NY
+714,Snow,Light,2017-12-14,40.7735,-80.3825,Beaver Falls,PA
+715,Fog,Severe,2017-12-15,47.2381,-123.1408,Shelton,WA
+716,Rain,Light,2017-12-16,25.9146,-97.4231,Brownsville,TX
+717,Rain,Light,2017-12-17,31.8612,-106.3692,Fort Bliss,TX
+718,Rain,Light,2017-12-18,40.2759,-79.4048,Latrobe,PA
+719,Rain,Moderate,2017-12-19,47.4447,-122.3144,Seattle,WA
+720,Rain,Light,2017-12-20,30.3959,-81.4229,Jacksonville,FL
+721,Fog,Severe,2017-12-21,46.1155,-122.8927,Kelso,WA
+722,Snow,Light,2017-12-22,39.7945,-105.7639,Granby,CO
+723,Fog,Moderate,2017-12-23,27.3496,-98.7369,Hebbronville,TX
+724,Snow,Light,2017-12-24,38.6446,-88.9612,Salem,IL
+725,Fog,Moderate,2017-12-25,43.9888,-76.0262,Hounsfield,NY
+726,Snow,Light,2017-12-26,43.3504,-76.3832,Fulton,NY
+727,Rain,Light,2017-12-27,31.8872,-81.5624,Fort Stewart,GA
+728,Cold,Severe,2017-12-28,44.0556,-75.7195,Fort Drum,NY
+729,Snow,Light,2017-12-29,42.2068,-75.9799,Johnson City,NY
+730,Snow,Light,2017-12-30,41.4482,-90.5236,Milan,IL
+731,Fog,Moderate,2017-12-31,30.3934,-86.4674,Destin,FL
+732,Snow,Light,2018-01-01,41.1795,-78.8933,Reynoldsville,PA
+733,Rain,Light,2018-01-02,27.4981,-80.3767,Fort Pierce,FL
+734,Rain,Light,2018-01-03,28.4676,-80.5666,Patrick AFB,FL
+735,Snow,Light,2018-01-04,43.9888,-76.0262,Hounsfield,NY
+736,Fog,Severe,2018-01-05,36.5905,-121.8487,Monterey,CA
+737,Fog,Severe,2018-01-06,38.7007,-121.5948,Sacramento,CA
+738,Fog,Severe,2018-01-07,38.2132,-122.2807,Napa,CA
+739,Storm,Severe,2018-01-08,39.7945,-105.7639,Granby,CO
+740,Rain,Light,2018-01-09,36.9599,-113.0139,Colorado City,AZ
+741,Rain,Light,2018-01-10,33.6123,-111.9232,Scottsdale,AZ
+742,Rain,Heavy,2018-01-11,29.505,-95.4765,Rosharon,TX
+743,Rain,Light,2018-01-12,44.0556,-75.7195,Fort Drum,NY
+744,Fog,Severe,2018-01-13,43.3504,-76.3832,Fulton,NY
+745,Fog,Severe,2018-01-14,46.1155,-122.8927,Kelso,WA
+746,Snow,Light,2018-01-15,38.428,-105.1058,Penrose,CO
+747,Snow,Light,2018-01-16,32.0311,-96.3989,Corsicana,TX
+748,Rain,Light,2018-01-17,46.1155,-122.8927,Kelso,WA
+749,Fog,Severe,2018-01-18,40.8193,-76.8658,Selinsgrove,PA
+750,Fog,Severe,2018-01-19,33.7963,-118.0418,Los Alamitos,CA
+751,Fog,Severe,2018-01-20,28.0837,-97.0466,Rockport,TX
+752,Rain,Light,2018-01-21,32.7092,-96.2674,Terrell,TX
+753,Rain,Light,2018-01-22,29.6375,-95.2824,Houston,TX
+754,Rain,Moderate,2018-01-23,47.4903,-122.7648,Port Orchard,WA
+755,Snow,Light,2018-01-24,40.2031,-87.5897,Bismarck,IL
+756,Snow,Light,2018-01-25,40.3149,-78.8307,Johnstown,PA
+757,Rain,Light,2018-01-26,29.2543,-96.1544,Wharton,TX
+758,Rain,Light,2018-01-27,38.1462,-89.7024,Sparta,IL
+759,Fog,Severe,2018-01-28,36.3797,-88.9857,Union City,TN
+760,Rain,Light,2018-01-29,28.4739,-82.4537,Brooksville,FL
+761,Snow,Light,2018-01-30,40.3149,-78.8307,Johnstown,PA
+762,Rain,Light,2018-01-31,32.699,-94.9489,Gilmer,TX
+763,Rain,Light,2018-02-01,42.1534,-79.258,Jamestown,NY
+764,Rain,Light,2018-02-02,46.1155,-122.8927,Kelso,WA
+765,Snow,Light,2018-02-03,43.9888,-76.0262,Hounsfield,NY
+766,Fog,Severe,2018-02-04,43.3384,-73.6102,Queensbury,NY
+767,Fog,Severe,2018-02-05,27.9132,-97.2132,Aransas Pass,TX
+768,Rain,Light,2018-02-06,29.9767,-99.0855,Kerrville,TX
+769,Rain,Light,2018-02-07,33.631,-85.152,Carrollton,GA
+770,Rain,Light,2018-02-08,33.7797,-82.8164,Washington,GA
+771,Rain,Light,2018-02-09,32.1927,-82.3712,Vidalia,GA
+772,Rain,Light,2018-02-10,41.8756,-71.0211,East Taunton,MA
+773,Snow,Light,2018-02-11,38.4844,-106.3169,Gunnison,CO
+774,Rain,Light,2018-02-12,33.6325,-83.8496,Oxford,GA
+775,Rain,Light,2018-02-13,30.3925,-97.5621,Manor,TX
+776,Rain,Light,2018-02-14,32.1108,-84.1888,Americus,GA
+777,Rain,Light,2018-02-15,31.3097,-95.4039,Crockett,TX
+778,Fog,Severe,2018-02-16,27.6926,-97.2911,Corpus Christi,TX
+779,Fog,Severe,2018-02-17,47.9689,-117.4211,Deer Park,WA
+780,Fog,Severe,2018-02-18,41.9338,-88.7066,Dekalb,IL
+781,Fog,Moderate,2018-02-19,32.719,-98.891,Breckenridge,TX
+782,Fog,Severe,2018-02-20,42.0744,-70.2182,Provincetown,MA
+783,Snow,Heavy,2018-02-21,33.6011,-97.7735,Bowie,TX
+784,Rain,Light,2018-02-22,32.8974,-97.022,Dallas,TX
+785,Rain,Light,2018-02-23,39.5351,-89.3294,Taylorville,IL
+786,Rain,Light,2018-02-24,32.6809,-96.8682,Dallas,TX
+787,Rain,Light,2018-02-25,40.9233,-88.6213,Pontiac,IL
+788,Rain,Light,2018-02-26,30.0644,-85.5637,Panama City,FL
+789,Fog,Severe,2018-02-27,47.2765,-121.3382,Enumclaw,WA
+790,Rain,Light,2018-02-28,32.5633,-82.9854,Dublin,GA
+791,Rain,Light,2018-03-01,38.1462,-89.7024,Sparta,IL
+792,Rain,Light,2018-03-02,40.4381,-76.5643,Jonestown,PA
+793,Fog,Moderate,2018-03-03,38.1418,-122.5546,Novato,CA
+794,Rain,Light,2018-03-04,31.7784,-95.7047,Palestine,TX
+795,Rain,Light,2018-03-05,38.5095,-89.09,Centralia,IL
+796,Fog,Severe,2018-03-06,41.5175,-88.179,Joliet,IL
+797,Rain,Light,2018-03-07,27.8493,-82.5212,Tampa,FL
+798,Fog,Moderate,2018-03-08,28.0837,-97.0466,Rockport,TX
+799,Rain,Light,2018-03-09,26.4417,-98.1222,Edinburg,TX
+800,Snow,Light,2018-03-10,44.3853,-74.2062,Saranac Lake,NY
+801,Fog,Severe,2018-03-11,36.78,-119.7194,Fresno,CA
+802,Rain,Light,2018-03-12,25.995,-81.6725,Naples,FL
+803,Rain,Light,2018-03-13,40.8217,-72.8689,Shirley,NY
+804,Rain,Light,2018-03-14,32.6922,-117.2098,San Diego,CA
+805,Rain,Light,2018-03-15,38.5037,-122.811,Windsor,CA
+806,Snow,Light,2018-03-16,39.8733,-75.2268,Philadelphia,PA
+807,Fog,Severe,2018-03-17,28.9731,-95.8633,Bay City,TX
+808,Fog,Moderate,2018-03-18,31.3824,-103.5107,Pecos,TX
+809,Cold,Severe,2018-03-19,31.4213,-97.797,Gatesville,TX
+810,Snow,Light,2018-03-20,39.2281,-106.3161,Leadville,CO
+811,Rain,Light,2018-03-21,35.6656,-121.2847,San Simeon,CA
+812,Snow,Moderate,2018-03-22,38.3557,-119.5188,Coleville,CA
+813,Snow,Light,2018-03-23,37.624,-118.838,Mammoth Lakes,CA
+814,Rain,Light,2018-03-24,38.564,-90.1487,East Saint Louis,IL
+815,Snow,Light,2018-03-25,41.6875,-69.9933,Chatham,MA
+816,Rain,Light,2018-03-26,31.8612,-106.3692,Fort Bliss,TX
+817,Rain,Light,2018-03-27,33.1753,-97.8283,Bridgeport,TX
+818,Rain,Light,2018-03-28,40.9596,-72.2519,Wainscott,NY
+819,Fog,Moderate,2018-03-29,41.4482,-90.5236,Milan,IL
+820,Fog,Severe,2018-03-30,33.3013,-117.3551,Camp Pendleton,CA
+821,Rain,Light,2018-03-31,28.2422,-80.608,Patrick Afb,FL
+822,Rain,Light,2018-04-01,38.0887,-88.1213,Carmi,IL
+823,Rain,Light,2018-04-02,40.9785,-124.1048,McKinleyville,CA
+824,Rain,Light,2018-04-03,40.2031,-87.5897,Bismarck,IL
+825,Rain,Light,2018-04-04,42.0744,-70.2182,Provincetown,MA
+826,Snow,Light,2018-04-05,41.8965,-88.2512,West Chicago,IL
+827,Rain,Light,2018-04-06,39.1278,-123.2001,Ukiah,CA
+828,Rain,Light,2018-04-07,26.9688,-99.2489,Zapata,TX
+829,Rain,Light,2018-04-08,47.6151,-117.6558,Fairchild Air Force Base,WA
+830,Rain,Light,2018-04-09,28.2281,-82.1559,Zephyrhills,FL
+831,Rain,Light,2018-04-10,41.0624,-73.7046,Purchase,NY
+832,Snow,Moderate,2018-04-11,47.2765,-121.3382,Enumclaw,WA
+833,Fog,Severe,2018-04-12,47.2765,-121.3382,Enumclaw,WA
+834,Fog,Moderate,2018-04-13,31.9478,-102.2086,Midland,TX
+835,Rain,Light,2018-04-14,32.699,-94.9489,Gilmer,TX
+836,Rain,Light,2018-04-15,34.2719,-83.8303,Gainesville,GA
+837,Rain,Light,2018-04-16,47.1039,-122.2872,Puyallup,WA
+838,Snow,Light,2018-04-17,42.4932,-79.2762,Dunkirk,NY
+839,Rain,Light,2018-04-18,37.2863,-107.056,Pagosa Springs,CO
+840,Rain,Light,2018-04-19,40.1365,-80.2902,Washington,PA
+841,Cold,Severe,2018-04-20,41.7016,-74.795,Bethel,NY
+842,Rain,Light,2018-04-21,40.4518,-105.0113,Loveland,CO
+843,Rain,Light,2018-04-22,33.7797,-82.8164,Washington,GA
+844,Rain,Light,2018-04-23,36.009,-86.5201,Smyrna,TN
+845,Rain,Light,2018-04-24,33.3544,-84.5689,Peachtree City,GA
+846,Rain,Moderate,2018-04-25,30.735,-101.203,Ozona,TX
+847,Rain,Light,2018-04-26,33.9829,-83.6674,Winder,GA
+848,Rain,Light,2018-04-27,41.1382,-75.3797,Pocono Summit,PA
+849,Rain,Light,2018-04-28,40.1206,-76.2945,Lititz,PA
+850,Snow,Light,2018-04-29,47.2765,-121.3382,Enumclaw,WA
+851,Rain,Light,2018-04-30,30.4967,-97.9659,Northwest Travis,TX
+852,Snow,Light,2018-05-01,34.2638,-116.856,Big Bear City,CA
+853,Rain,Light,2018-05-02,34.9908,-117.8631,Edwards,CA
+854,Fog,Moderate,2018-05-03,32.719,-98.891,Breckenridge,TX
+855,Rain,Light,2018-05-04,44.0556,-75.7195,Fort Drum,NY
+856,Rain,Light,2018-05-05,28.8214,-81.8096,Leesburg,FL
+857,Fog,Severe,2018-05-06,28.7248,-96.2535,Palacios,TX
+858,Fog,Moderate,2018-05-07,42.7472,-73.7991,Latham,NY
+859,Rain,Light,2018-05-08,31.3097,-95.4039,Crockett,TX
+860,Rain,Light,2018-05-09,47.2765,-121.3382,Enumclaw,WA
+861,Rain,Light,2018-05-10,40.2895,-88.1473,Rantoul,IL
+862,Rain,Light,2018-05-11,41.5092,-74.265,Montgomery,NY
+863,Rain,Light,2018-05-12,41.253,-70.061,Nantucket,MA
+864,Rain,Light,2018-05-13,40.0117,-105.0503,Erie,CO
+865,Rain,Light,2018-05-14,27.9471,-81.7811,Bartow,FL
+866,Rain,Moderate,2018-05-15,28.2422,-80.608,Patrick Afb,FL
+867,Rain,Light,2018-05-16,29.7268,-85.0248,Apalachicola,FL
+868,Rain,Light,2018-05-17,25.4949,-80.3732,Homestead,FL
+869,Rain,Light,2018-05-18,30.3934,-86.4674,Destin,FL
+870,Rain,Light,2018-05-19,25.995,-81.6725,Naples,FL
+871,Rain,Light,2018-05-20,40.238,-75.5549,Pottstown,PA
+872,Fog,Severe,2018-05-21,32.1927,-82.3712,Vidalia,GA
+873,Fog,Severe,2018-05-22,46.4772,-122.8065,Toledo,WA
+874,Rain,Light,2018-05-23,41.3335,-75.7227,Pittston,PA
+875,Fog,Severe,2018-05-24,32.5633,-82.9854,Dublin,GA
+876,Rain,Light,2018-05-25,39.1605,-89.6742,Litchfield,IL
+877,Rain,Light,2018-05-26,33.631,-85.152,Carrollton,GA
+878,Rain,Light,2018-05-27,27.0716,-82.4403,Venice,FL
+879,Rain,Light,2018-05-28,28.4676,-80.5666,Patrick AFB,FL
+880,Rain,Light,2018-05-29,33.6301,-84.4418,Atlanta,GA
+881,Rain,Light,2018-05-30,39.0136,-87.6485,Palestine,IL
+882,Fog,Severe,2018-05-31,40.2184,-76.8552,New Cumberland,PA
+883,Rain,Light,2018-06-01,41.672,-70.2697,Hyannis,MA
+884,Rain,Light,2018-06-02,41.7016,-74.795,Bethel,NY
+885,Rain,Light,2018-06-03,43.1111,-76.1038,Syracuse,NY
+886,Fog,Severe,2018-06-04,34.8941,-120.4521,Santa Maria,CA
+887,Rain,Light,2018-06-05,26.199,-80.1776,Fort Lauderdale,FL
+888,Rain,Moderate,2018-06-06,28.9444,-81.9701,Lady Lake,FL
+889,Rain,Light,2018-06-07,32.781,-97.4365,Naval Air Station JRB,TX
+890,Rain,Light,2018-06-08,35.2202,-101.7173,Amarillo,TX
+891,Rain,Light,2018-06-09,47.6151,-117.6558,Fairchild Air Force Base,WA
+892,Rain,Light,2018-06-10,24.5801,-81.6829,Key West,FL
+893,Rain,Light,2018-06-11,33.7776,-84.5246,Atlanta,GA
+894,Fog,Moderate,2018-06-12,32.9539,-84.2594,Thomaston,GA
+895,Rain,Light,2018-06-13,32.1927,-82.3712,Vidalia,GA
+896,Fog,Severe,2018-06-14,41.6584,-70.5214,Sandwich,MA
+897,Rain,Light,2018-06-15,41.6875,-69.9933,Chatham,MA
+898,Rain,Light,2018-06-16,30.3959,-81.4229,Jacksonville,FL
+899,Rain,Light,2018-06-17,33.631,-85.152,Carrollton,GA
+900,Rain,Light,2018-06-18,32.4674,-100.4666,Sweetwater,TX
+901,Rain,Light,2018-06-19,40.2759,-79.4048,Latrobe,PA
+902,Rain,Light,2018-06-20,32.699,-94.9489,Gilmer,TX
+903,Rain,Light,2018-06-21,40.9233,-88.6213,Pontiac,IL
+904,Rain,Light,2018-06-22,40.1589,-89.3389,Lincoln,IL
+905,Rain,Light,2018-06-23,33.0678,-96.0653,Greenville,TX
+906,Fog,Severe,2018-06-24,39.774,-90.2419,Jacksonville,IL
+907,Rain,Light,2018-06-25,34.2719,-83.8303,Gainesville,GA
+908,Fog,Severe,2018-06-26,36.8933,-121.4103,Hollister,CA
+909,Rain,Light,2018-06-27,41.3335,-75.7227,Pittston,PA
+910,Rain,Moderate,2018-06-28,42.3606,-71.0097,East Boston,MA
+911,Rain,Light,2018-06-29,48.2515,-122.6737,Oak Harbor,WA
+912,Fog,Severe,2018-06-30,34.7275,-120.5783,Lompoc,CA
+913,Fog,Moderate,2018-07-01,30.8794,-96.9711,Cameron,TX
+914,Fog,Moderate,2018-07-02,32.384,-94.7115,Longview,TX
+915,Rain,Light,2018-07-03,28.0198,-82.3415,Tampa,FL
+916,Rain,Light,2018-07-04,42.1534,-79.258,Jamestown,NY
+917,Rain,Light,2018-07-05,33.6366,-95.4507,Paris,TX
+918,Rain,Light,2018-07-06,33.8606,-98.4904,Wichita Falls,TX
+919,Rain,Light,2018-07-07,29.2113,-99.7436,Uvalde,TX
+920,Rain,Light,2018-07-08,32.1315,-110.9564,Tucson,AZ
+921,Fog,Moderate,2018-07-09,27.9132,-97.2132,Aransas Pass,TX
+922,Rain,Light,2018-07-10,27.2663,-80.8487,Okeechobee,FL
+923,Rain,Light,2018-07-11,29.1637,-82.221,Ocala,FL
+924,Rain,Moderate,2018-07-12,31.4208,-110.8458,Nogales,AZ
+925,Precipitation,UNK,2018-07-13,33.3544,-84.5689,Peachtree City,GA
+926,Rain,Moderate,2018-07-14,41.4482,-90.5236,Milan,IL
+927,Fog,Moderate,2018-07-15,28.0837,-97.0466,Rockport,TX
+928,Fog,Severe,2018-07-16,40.0853,-78.5122,Bedford,PA
+929,Fog,Severe,2018-07-17,40.779,-73.9692,New York,NY
+930,Rain,Light,2018-07-18,38.6784,-104.7566,Colorado Springs,CO
+931,Rain,Light,2018-07-19,29.9592,-81.34100000000002,Saint Augustine,FL
+932,Rain,Light,2018-07-20,41.4316,-88.4152,Saratoga,IL
+933,Rain,Moderate,2018-07-21,29.6334,-83.1054,Cross City,FL
+934,Rain,Light,2018-07-22,38.75,-104.85,Colorado Springs,CO
+935,Rain,Heavy,2018-07-23,29.6334,-83.1054,Cross City,FL
+936,Fog,Severe,2018-07-24,38.4844,-106.3169,Gunnison,CO
+937,Fog,Severe,2018-07-25,38.5037,-122.811,Windsor,CA
+938,Rain,Light,2018-07-26,27.1816,-80.2252,Stuart,FL
+939,Rain,Light,2018-07-27,30.0333,-85.5333,Panama City,FL
+940,Rain,Light,2018-07-28,39.4752,-106.1523,Breckenridge,CO
+941,Rain,Light,2018-07-29,32.9549,-111.7668,Casa Grande,AZ
+942,Rain,Moderate,2018-07-30,38.7605,-87.59899999999998,Lawrenceville,IL
+943,Rain,Light,2018-07-31,44.0556,-75.7195,Fort Drum,NY
+944,Rain,Light,2018-08-01,35.81800000000001,-83.9857,Alcoa,TN
+945,Rain,Heavy,2018-08-02,33.9486,-83.3263,Athens,GA
+946,Rain,Light,2018-08-03,47.9233,-122.2831,Mukilteo,WA
+947,Rain,Light,2018-08-04,29.908,-96.95,La Grange,TX
+948,Cold,Severe,2018-08-05,32.699,-94.9489,Gilmer,TX
+949,Fog,Severe,2018-08-06,37.5136,-122.4996,Half Moon Bay,CA
+950,Rain,Light,2018-08-07,43.3504,-76.3832,Fulton,NY
+951,Fog,Moderate,2018-08-08,35.135,-118.4392,Tehachapi,CA
+952,Rain,Light,2018-08-09,33.7776,-84.5246,Atlanta,GA
+953,Rain,Light,2018-08-10,30.7771,-86.5194,Crestview,FL
+954,Rain,Light,2018-08-11,35.1443,-111.6664,Flagstaff,AZ
+955,Rain,Light,2018-08-12,31.3514,-100.4939,San Angelo,TX
+956,Rain,Light,2018-08-13,37.3711,-118.3581,Bishop,CA
+957,Rain,Light,2018-08-14,40.3552,-79.9214,West Mifflin,PA
+958,Rain,Light,2018-08-15,42.6973,-73.1696,North Adams,MA
+959,Fog,Moderate,2018-08-16,38.7869,-108.0658,Delta,CO
+960,Fog,Moderate,2018-08-17,34.7275,-120.5783,Lompoc,CA
+961,Fog,Moderate,2018-08-18,37.1824,-88.7489,Metropolis,IL
+962,Rain,Light,2018-08-19,39.2415,-102.2819,Burlington,CO
+963,Rain,Light,2018-08-20,32.6809,-96.8682,Dallas,TX
+964,Fog,Moderate,2018-08-21,40.0117,-105.0503,Erie,CO
+965,Fog,Severe,2018-08-22,28.8214,-81.8096,Leesburg,FL
+966,Fog,Moderate,2018-08-23,28.8625,-96.9297,Victoria,TX
+967,Rain,Light,2018-08-24,42.0454,-90.1101,Savanna,IL
+968,Rain,Light,2018-08-25,25.9102,-80.2828,Opa Locka,FL
+969,Fog,Severe,2018-08-26,32.214,-83.12799999999999,Eastman,GA
+970,Fog,Severe,2018-08-27,39.9889,-75.5803,West Chester,PA
+971,Rain,Light,2018-08-28,28.615,-80.6945,Orlando,FL
+972,Rain,Moderate,2018-08-29,41.6031,-88.1016,Lockport,IL
+973,Rain,Light,2018-08-30,32.699,-94.9489,Gilmer,TX
+974,Rain,Light,2018-08-31,37.2622,-104.3318,Trinidad,CO
+975,Rain,Light,2018-09-01,38.75,-104.85,Colorado Springs,CO
+976,Rain,Light,2018-09-02,29.3842,-98.5811,Jbsa Lackland,TX
+977,Fog,Moderate,2018-09-03,40.1962,-76.7725,Middletown,PA
+978,Rain,Light,2018-09-04,29.2113,-99.7436,Uvalde,TX
+979,Rain,Light,2018-09-05,38.5339,-106.933,Gunnison,CO
+980,Fog,Severe,2018-09-06,41.7837,-124.238,Crescent City,CA
+981,Rain,Light,2018-09-07,30.1945,-97.6699,Austin,TX
+982,Rain,Moderate,2018-09-08,39.0712,-88.5292,Effingham,IL
+983,Rain,Light,2018-09-09,28.3692,-97.7953,Beeville,TX
+984,Rain,Heavy,2018-09-10,28.3692,-97.7953,Beeville,TX
+985,Cold,Severe,2018-09-11,31.9478,-102.2086,Midland,TX
+986,Rain,Light,2018-09-12,31.2589,-81.4661,Everett,GA
+987,Rain,Light,2018-09-13,40.6392,-73.7639,Jamaica,NY
+988,Precipitation,UNK,2018-09-14,40.7012,-74.009,New York,NY
+989,Fog,Severe,2018-09-15,37.7833,-89.2453,Murphysboro,IL
+990,Fog,Moderate,2018-09-16,31.3097,-95.4039,Crockett,TX
+991,Fog,Severe,2018-09-17,41.8756,-71.0211,East Taunton,MA
+992,Rain,Moderate,2018-09-18,42.4269,-73.289,Pittsfield,MA
+993,Rain,Light,2018-09-19,42.7126,-71.1255,North Andover,MA
+994,Rain,Light,2018-09-20,25.995,-81.6725,Naples,FL
+995,Rain,Moderate,2018-09-21,44.9358,-74.8455,Massena,NY
+996,Rain,Light,2018-09-22,32.5832,-96.7209,Southwest Dallas,TX
+997,Rain,Light,2018-09-23,37.0639,-89.2232,Cairo,IL
+998,Fog,Moderate,2018-09-24,27.0716,-82.4403,Venice,FL
+999,Rain,Light,2018-09-25,41.6257,-73.8816,Poughkeepsie,NY
+1000,Rain,Heavy,2018-09-26,31.2359,-94.7546,Burke,TX
+1001,Rain,Light,2018-09-27,34.3478,-85.1611,Rome,GA
+1002,Rain,Light,2018-09-28,40.9596,-72.2519,Wainscott,NY
+1003,Rain,Light,2018-09-29,28.0837,-97.0466,Rockport,TX
+1004,Rain,Light,2018-09-30,32.567,-84.251,Butler,GA
+1005,Fog,Severe,2018-10-01,41.1382,-75.3797,Pocono Summit,PA
+1006,Rain,Light,2018-10-02,27.0716,-82.4403,Venice,FL
+1007,Fog,Severe,2018-10-03,40.8193,-76.8658,Selinsgrove,PA
+1008,Rain,Light,2018-10-04,38.8984,-119.9962,South Lake Tahoe,CA
+1009,Fog,Severe,2018-10-05,47.2765,-121.3382,Enumclaw,WA
+1010,Rain,Light,2018-10-06,40.8534,-77.8401,State College,PA
+1011,Rain,Light,2018-10-07,32.8542,-96.8551,Dallas,TX
+1012,Rain,Light,2018-10-08,31.1793,-99.3239,Brady,TX
+1013,Rain,Moderate,2018-10-09,29.343000000000004,-98.8497,Castroville,TX
+1014,Rain,Light,2018-10-10,39.0712,-88.5292,Effingham,IL
+1015,Rain,Light,2018-10-11,34.3478,-85.1611,Rome,GA
+1016,Rain,Light,2018-10-12,29.5297,-98.2789,Universal City,TX
+1017,Rain,Light,2018-10-13,33.9,-117.25,March Air Reserve Base,CA
+1018,Snow,Light,2018-10-14,40.3315,-103.807,Fort Morgan,CO
+1019,Rain,Light,2018-10-15,32.7403,-95.4945,Mineola,TX
+1020,Rain,Light,2018-10-16,30.8794,-96.9711,Cameron,TX
+1021,Rain,Light,2018-10-17,32.7092,-96.2674,Terrell,TX
+1022,Rain,Light,2018-10-18,31.1387,-97.7145,Fort Hood,TX
+1023,Rain,Light,2018-10-19,32.781,-97.4365,Naval Air Station JRB,TX
+1024,Rain,Light,2018-10-20,41.3335,-75.7227,Pittston,PA
+1025,Fog,Moderate,2018-10-21,28.0997,-80.6356,Melbourne,FL
+1026,Rain,Light,2018-10-22,32.9549,-111.7668,Casa Grande,AZ
+1027,Cold,Severe,2018-10-23,38.3557,-119.5188,Coleville,CA
+1028,Fog,Severe,2018-10-24,46.677,-122.9827,Chehalis,WA
+1029,Rain,Light,2018-10-25,30.4781,-87.1869,Pensacola,FL
+1030,Rain,Light,2018-10-26,32.01,-81.1457,Savannah,GA
+1031,Rain,Light,2018-10-27,42.7126,-71.1255,North Andover,MA
+1032,Cold,Severe,2018-10-28,31.429,-83.48899999999998,Tifton,GA
+1033,Fog,Severe,2018-10-29,32.8157,-117.1396,San Diego,CA
+1034,Fog,Severe,2018-10-30,28.615,-80.6945,Orlando,FL
+1035,Rain,Moderate,2018-10-31,29.2543,-96.1544,Wharton,TX
+1036,Cold,Severe,2018-11-01,30.7406,-98.2353,Burnet,TX
+1037,Rain,Moderate,2018-11-02,44.6509,-73.4681,Plattsburgh,NY
+1038,Rain,Light,2018-11-03,40.9596,-72.2519,Wainscott,NY
+1039,Rain,Light,2018-11-04,39.9371,-91.1966,Quincy,IL
+1040,Rain,Light,2018-11-05,33.9486,-83.3263,Athens,GA
+1041,Rain,Light,2018-11-06,36.009,-86.5201,Smyrna,TN
+1042,Fog,Moderate,2018-11-07,27.8947,-98.0425,Orange Grove,TX
+1043,Rain,Light,2018-11-08,41.6258,-80.2123,Meadville,PA
+1044,Rain,Light,2018-11-09,44.6799,-75.4642,Ogdensburg,NY
+1045,Rain,Light,2018-11-10,44.6799,-75.4642,Ogdensburg,NY
+1046,Snow,Light,2018-11-11,43.2338,-75.407,Rome,NY
+1047,Rain,Light,2018-11-12,32.3239,-84.9826,Fort Benning,GA
+1048,Rain,Light,2018-11-13,41.1795,-78.8933,Reynoldsville,PA
+1049,Rain,Light,2018-11-14,34.8544,-83.9973,Blairsville,GA
+1050,Fog,Severe,2018-11-15,46.9733,-122.9033,Tumwater,WA
+1051,Rain,Light,2018-11-16,47.6214,-117.5278,Spokane,WA
+1052,Fog,Severe,2018-11-17,39.7133,-104.7581,Aurora,CO
+1053,Fog,Severe,2018-11-18,32.3239,-84.9826,Fort Benning,GA
+1054,Rain,Light,2018-11-19,40.4774,-88.9143,Bloomington,IL
+1055,Fog,Moderate,2018-11-20,37.0816,-121.5968,San Martin,CA
+1056,Snow,Light,2018-11-21,44.3853,-74.2062,Saranac Lake,NY
+1057,Fog,Severe,2018-11-22,44.3853,-74.2062,Saranac Lake,NY
+1058,Rain,Light,2018-11-23,28.3692,-97.7953,Beeville,TX
+1059,Rain,Light,2018-11-24,46.1155,-122.8927,Kelso,WA
+1060,Snow,Light,2018-11-25,40.0444,-107.8883,Meeker,CO
+1061,Fog,Severe,2018-11-26,42.4681,-71.2946,Concord,MA
+1062,Rain,Moderate,2018-11-27,46.9727,-123.9302,Hoquiam,WA
+1063,Rain,Light,2018-11-28,44.6799,-75.4642,Ogdensburg,NY
+1064,Rain,Light,2018-11-29,38.8984,-119.9962,South Lake Tahoe,CA
+1065,Rain,Light,2018-11-30,30.5069,-86.9597,Eglin AFB,FL
+1066,Rain,Light,2018-12-01,40.0993,-102.2431,Wray,CO
+1067,Rain,Moderate,2018-12-02,31.8872,-81.5624,Fort Stewart,GA
+1068,Snow,Light,2018-12-03,37.3071,-108.6264,Cortez,CO
+1069,Snow,Light,2018-12-04,39.2733,-103.6674,Limon,CO
+1070,Rain,Light,2018-12-05,37.5136,-122.4996,Half Moon Bay,CA
+1071,Snow,Light,2018-12-06,38.239,-108.5668,Nucla,CO
+1072,Rain,Light,2018-12-07,30.3207,-97.7601,Austin,TX
+1073,Rain,Moderate,2018-12-08,33.1615,-95.6189,Sulphur Springs,TX
+1074,Rain,Light,2018-12-09,33.631,-85.152,Carrollton,GA
+1075,Rain,Light,2018-12-10,32.6889,-83.6529,Macon,GA
+1076,Snow,Light,2018-12-11,31.3824,-103.5107,Pecos,TX
+1077,Fog,Moderate,2018-12-12,42.08,-80.1825,Erie,PA
+1078,Snow,Light,2018-12-13,40.779,-73.9692,New York,NY
+1079,Rain,Light,2018-12-14,40.238,-75.5549,Pottstown,PA
+1080,Rain,Light,2018-12-15,42.0744,-70.2182,Provincetown,MA
+1081,Fog,Severe,2018-12-16,28.8214,-81.8096,Leesburg,FL
+1082,Rain,Light,2018-12-17,37.89,-121.2264,Stockton,CA
+1083,Fog,Severe,2018-12-18,33.5932,-95.0636,Clarksville,TX
+1084,Rain,Light,2018-12-19,48.7991,-122.5406,Bellingham,WA
+1085,Rain,Light,2018-12-20,42.0454,-90.1101,Savanna,IL
+1086,Cold,Severe,2018-12-21,32.1441,-94.8539,Henderson,TX
+1087,Snow,Light,2018-12-22,41.0467,-78.4117,Clearfield,PA
+1088,Rain,Light,2018-12-23,26.199,-80.1776,Fort Lauderdale,FL
+1089,Fog,Moderate,2018-12-24,32.0311,-96.3989,Corsicana,TX
+1090,Rain,Light,2018-12-25,38.3775,-121.9585,Vacaville,CA
+1091,Fog,Severe,2018-12-26,35.2202,-101.7173,Amarillo,TX
+1092,Fog,Moderate,2018-12-27,36.9851,-120.1106,Madera,CA
+1093,Rain,Light,2018-12-28,42.5841,-70.9153,Beverly,MA
+1094,Fog,Severe,2018-12-29,30.0333,-85.5333,Panama City,FL
+1095,Rain,Light,2018-12-30,48.2515,-122.6737,Oak Harbor,WA
